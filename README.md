@@ -1,10 +1,10 @@
-# Consistent UI Project
+# DOM project 1
 
 This project ensures consistent UI elements across all steps. It manipulates a target div element to achieve visual consistency.
 
 ## Viewing the Hosted Version
 
-You can view the hosted version of this project [here](https://your-hosted-link.com).
+You can view the hosted version of this project [here](https://vishaljavare4.github.io/DOM/).
 
 To view the project locally:
 1. Clone this repository to your local machine.
